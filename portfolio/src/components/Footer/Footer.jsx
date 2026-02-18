@@ -18,10 +18,10 @@ const Footer = () => {
 
       {/* Right Section */}
       <div className="footer-right">
-        <a href="https://linkedin.com/in/tanisha-jaiswal-a720b4246/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/tanishaa7" target="_blank" rel="noopener noreferrer">
           <FaLinkedin size={24} /> LinkedIn
         </a>
-        <a href="https://github.com/Tanishaa5" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/tanishajaiswal7" target="_blank" rel="noopener noreferrer">
           <FaGithub size={24} /> GitHub
         </a>
       </div>
